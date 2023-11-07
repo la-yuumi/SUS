@@ -29,7 +29,7 @@ void knapsack(int n, int w, int g[], int v[], int s[]) {
 }
 
 int main() {
-    char w, a, b, c;
+    int w, a, b, c;
     int n = 0;
     int v[8001], g[8001], s[8001];
     scanf("%d", &w);
